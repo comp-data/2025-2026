@@ -154,7 +154,7 @@ TBC
   <tr><td>15/10/25</td><td>09:00-11:00</td><td>Introduction to Computational Thinking</td></tr>
   <tr><td>16/10/25</td><td>12:00-14:00</td><td>Algorithms</td></tr>
   <tr><td>20/10/25</td><td>09:00-11:00</td><td>Computability</td></tr>
-  <tr><td>22/11/25</td><td>09:00-11:00</td><td>Programming languages</td></tr>
+  <tr><td>22/10/25</td><td>09:00-11:00</td><td>Programming languages</td></tr>
   <tr><td>24/10/25</td><td>12:00-14:00</td><td>Laboratory: 1st Lesson</td></tr>
   <tr><td>10/11/25</td><td>09:00-11:00</td><td>Organising information: ordered structures</td></tr>
   <tr><td>14/11/25</td><td>09:00-11:00</td><td>Laboratory: 2nd Lesson</td></tr>
