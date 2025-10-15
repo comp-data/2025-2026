@@ -35,6 +35,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 2. [15/10/25, *the*] Introduction to Computational Thinking
    - book chapter: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html)
+   - exercises: [1](https://github.com/comp-data/2025-2026/issues/1), [2](https://github.com/comp-data/2025-2026/issues/2), [3](https://github.com/comp-data/2025-2026/issues/3)
    <hr />
 3. [16/10/25, *the*] Algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/02-algorithms.html)
