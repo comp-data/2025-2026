@@ -33,7 +33,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - slides: [lecture](https://comp-data.github.io/2025-2026/slides/00%20-%20Course%20introduction.html)
    <hr />
 2. [15/10/25, *the*] Introduction to Computational Thinking
-   - book chapter: [HTML](, [lecture](slides-)01-computational-thinking.html)
+   - book chapter: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html), [lecture](https://thinkcompute.github.io/01-slides-computational-thinking.html)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/1), [2](https://github.com/comp-data/2025-2026/issues/2), [3](https://github.com/comp-data/2025-2026/issues/3)
    <hr />
