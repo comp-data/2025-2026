@@ -41,6 +41,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 3. [16/10/25, *the*] Algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/02-algorithms.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/02%20-%20Algorithms.html), [lecture](https://thinkcompute.github.io/02-slides-algorithms.html)
+   - exercises: [1](https://github.com/comp-data/2025-2026/issues/4), [2](https://github.com/comp-data/2025-2026/issues/5), [3](https://github.com/comp-data/2025-2026/issues/6)
    <hr />
 4. [20/10/25, *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
