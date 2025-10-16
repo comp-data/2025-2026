@@ -30,24 +30,24 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 #### Part I (October 2025 - December 2025)
 
 1. [13/10/25, *the*] Introduction to the course
-   - slides: [HTML](https://comp-data.github.io/2025-2026/slides/00%20-%20Course%20introduction.html)
+   - slides: [lecture](https://comp-data.github.io/2025-2026/slides/00%20-%20Course%20introduction.html)
    <hr />
 2. [15/10/25, *the*] Introduction to Computational Thinking
-   - book chapter: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
-   - slides: [HTML](https://comp-data.github.io/2025-2026/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html)
+   - book chapter: [HTML](, [lecture](slides-)01-computational-thinking.html)
+   - slides: [communications](https://comp-data.github.io/2025-2026/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html), [lecture](https://thinkcompute.github.io/01-slides-computational-thinking.html)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/1), [2](https://github.com/comp-data/2025-2026/issues/2), [3](https://github.com/comp-data/2025-2026/issues/3)
    <hr />
 3. [16/10/25, *the*] Algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/02-algorithms.html)
-   - slides: [HTML](https://comp-data.github.io/2025-2026/slides/02%20-%20Algorithms.html)
+   - slides: [communications](https://comp-data.github.io/2025-2026/slides/02%20-%20Algorithms.html), [lecture](https://thinkcompute.github.io/02-slides-algorithms.html)
    <hr />
 4. [20/10/25, *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
-   - slides: [HTML](https://comp-data.github.io/2025-2026/slides/03%20-%20Computability.html)
+   - slides: [communications](https://comp-data.github.io/2025-2026/slides/03%20-%20Computability.html), [lecture](https://thinkcompute.github.io/03-slides-computability.html)
    <hr />
 5. [22/10/25, *the*] Programming languages
    - book chapter: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
-   - slides: [HTML](https://comp-data.github.io/2025-2026/slides/04%20-%20Programming%20languages.html)
+   - slides: [communications](https://comp-data.github.io/2025-2026/slides/04%20-%20Programming%20languages.html), [lecture](https://thinkcompute.github.io/04-slides-programming-languages.html)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Chapter "Understanding Data Types": introductory paragraphs and sections "Background", "Numbers", "Floating-Point Numbers", "Booleans", "Strings"
      - Chapter "How To Use Variables": introductory paragraphs and sections "Understadning Variables", "Naming Variables: Rules and Style", "Reassigning Variables", "Multiple Assignment"
@@ -61,7 +61,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    <hr />
 7. [10/11/25, *the*] Organising information: ordered structures
    - book chapter: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
-   - slides: [HTML](https://comp-data.github.io/2025-2026/slides/05%20-%20Organising%20information%20-%20ordered%20structures.html)
+   - slides: [communications](https://comp-data.github.io/2025-2026/slides/05%20-%20Organising%20information%20-%20ordered%20structures.html), [lecture](https://thinkcompute.github.io/05-slides-ordered-structures.html)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Chapter "How To Write Comments": all content
      - Chapter "How To Import Modules": all content
@@ -75,7 +75,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    <hr />
 9. [17/11/25, *the*] Brute-force algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/06-brute-force.html)
-   - slides: [HTML](https://comp-data.github.io/2025-2026/slides/06%20-%20Brute-force%20algorithms.html)
+   - slides: [communications](https://comp-data.github.io/2025-2026/slides/06%20-%20Brute-force%20algorithms.html), [lecture](https://thinkcompute.github.io/06-slides-brute-force.html)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Chapter "How To Construct While Loops": all content
      - Chapter "How To Construct For Loops": all content
@@ -86,7 +86,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    <hr />
 10. [19/11/25, *the*] Organising information: unordered structures
     - book chapter: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/07%20-%20Organising%20information%20-%20unordered%20structures.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/07%20-%20Organising%20information%20-%20unordered%20structures.html), [lecture](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       - Chapter "Understanding Data Types": section "Dictionaries"
       - Chapter "Understanding Dictionaries": all content
@@ -98,12 +98,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 12. [24/11/25, *the*] Recursion
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/08%20-%20Recursion.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/08%20-%20Recursion.html), [lecture](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
     <hr />
 13. [26/11/25, *the*] Divide and conquer algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/09%20-%20Divide%20and%20conquer%20algorithms.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/09%20-%20Divide%20and%20conquer%20algorithms.html), [lecture](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
     - Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
     <hr />
 14. [28/11/25, *lab*] Laboratory: 4th Lesson
@@ -111,12 +111,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 15. [1/12/25, *the*] Dynamic programming algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/10-dynamic-programming.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/10%20-%20Dynamic%20programming%20algorithms.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/10%20-%20Dynamic%20programming%20algorithms.html), [lecture](https://thinkcompute.github.io/10-slides-dynamic-programming.html)
     - Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
     <hr />
 16. [3/12/25, *the*] Organising information: trees
     - book chapter: [HTML](https://thinkcompute.github.io/11-trees.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/11%20-%20Organising%20information%20-%20trees.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/11%20-%20Organising%20information%20-%20trees.html), [lecture](https://thinkcompute.github.io/11-slides-trees.html)
     - Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
     <hr />
 17. [5/12/25, *lab*] Laboratory: 5th Lesson
@@ -124,7 +124,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 18. [10/12/25, *the*] Backtracking algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/12-backtracking.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/12%20-%20Backtracking%20algorithms.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/12%20-%20Backtracking%20algorithms.html), [lecture](https://thinkcompute.github.io/12-slides-backtracking.html)
     - Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
     <hr />
 19. [12/12/25, *lab*] Laboratory: 6th Lesson
@@ -132,12 +132,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 20. [15/12/25, *the*] Organising information: graphs
     - book chapter: [HTML](https://thinkcompute.github.io/13-graphs.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/13%20-%20Organising%20information%20-%20graphs.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/13%20-%20Organising%20information%20-%20graphs.html), [lecture](https://thinkcompute.github.io/13-slides-graphs.html)
     - Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     <hr />
 21. [17/12/25, *the*] Greedy algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/14-greedy.html)
-    - slides: [HTML](https://comp-data.github.io/2025-2026/slides/14%20-%20Greedy%20algorithms.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/14%20-%20Greedy%20algorithms.html), [lecture](https://thinkcompute.github.io/14-slides-greedy.html)
     - Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
     <hr />
 22. [18/12/25, *wor*] Workshop
