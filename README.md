@@ -36,6 +36,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - book chapter: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html), [lecture](https://thinkcompute.github.io/01-slides-computational-thinking.html)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/1), [2](https://github.com/comp-data/2025-2026/issues/2), [3](https://github.com/comp-data/2025-2026/issues/3)
+   - solutions: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-1), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-2), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-3)
    <hr />
 3. [16/10/25, *the*] Algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/02-algorithms.html)
