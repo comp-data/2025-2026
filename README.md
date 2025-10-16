@@ -31,16 +31,19 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 1. [13/10/25, *the*] Introduction to the course
    - slides: [lecture](https://comp-data.github.io/2025-2026/slides/00%20-%20Course%20introduction.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f5d2f05e-6f86-4cb0-8abb-b3750076e983&instance=Virtuale) (accessible using UNIBO credentials)
    <hr />
 2. [15/10/25, *the*] Introduction to Computational Thinking
    - book chapter: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html), [lecture](https://thinkcompute.github.io/01-slides-computational-thinking.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eff0dfee-f461-478d-a186-b3770077998e&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/1), [2](https://github.com/comp-data/2025-2026/issues/2), [3](https://github.com/comp-data/2025-2026/issues/3)
    - solutions: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-1), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-2), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-3)
    <hr />
 3. [16/10/25, *the*] Algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/02-algorithms.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/02%20-%20Algorithms.html), [lecture](https://thinkcompute.github.io/02-slides-algorithms.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=71f8d917-30a7-4ede-8e0c-b37800a9a4e5&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/4), [2](https://github.com/comp-data/2025-2026/issues/5), [3](https://github.com/comp-data/2025-2026/issues/6)
    <hr />
 4. [20/10/25, *the*] Computability
