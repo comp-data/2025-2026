@@ -45,10 +45,13 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/02%20-%20Algorithms.html), [lecture](https://thinkcompute.github.io/02-slides-algorithms.html)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=71f8d917-30a7-4ede-8e0c-b37800a9a4e5&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/4), [2](https://github.com/comp-data/2025-2026/issues/5), [3](https://github.com/comp-data/2025-2026/issues/6)
+   - solutions: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-4), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-5), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-6)
    <hr />
 4. [20/10/25, *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/03%20-%20Computability.html), [lecture](https://thinkcompute.github.io/03-slides-computability.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=51dda38c-831b-43ef-aa98-b37c0078ac16&instance=Virtuale) (accessible using UNIBO credentials)
+   - exercises: [1](https://github.com/comp-data/2025-2026/issues/7), [2](https://github.com/comp-data/2025-2026/issues/8), [3](https://github.com/comp-data/2025-2026/issues/9)
    <hr />
 5. [22/10/25, *the*] Programming languages
    - book chapter: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
