@@ -62,7 +62,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "Understanding Boolean Logic": all content
      - Chapter "How To Write Conditional Statements": all content
      - Chapter "How To Define Functions": introductory paragraphs and sections "Defining a Function", "Working with Parameters", "Returning a Value"
-   - Python: [first_algorithm_empty.py](https://comp-think.github.io/python/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://comp-think.github.io/python/first_algorithm_no_assignments.py), [first_algorithm.py](https://comp-think.github.io/python/first_algorithm.py)
+   - Python: [first_algorithm_empty.py](https://thinkcompute.github.io/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://thinkcompute.github.io/first_algorithm_no_assignments.py), [first_algorithm.py](https://thinkcompute.github.io/first_algorithm.py)
    <hr />
 6. [24/10/25, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-01.html)
@@ -76,7 +76,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "Understanding Data Types": section "Lists"
      - Chapter "Understanding Lists": introductory paragraphs and section "Indexing Lists"
      - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
-   - Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
+   - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
    <hr />
 8. [14/11/25, *lab*] Laboratory: 2nd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-02.html)
@@ -90,7 +90,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "Understanding Tuples": all content
      - Chapter "Understanding Lists": section "Constructing a List with List Items"
      - Chapter "How To Use List Methods": section "list.insert()"
-   - Python: [stack_from_list.py](https://comp-think.github.io/python/stack_from_list.py), [run_forever.py](https://comp-think.github.io/python/run_forever.py), [linear_search.py](https://comp-think.github.io/python/linear_search.py), [insertion_sort.py](https://comp-think.github.io/python/insertion_sort.py)
+   - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
    <hr />
 10. [19/11/25, *the*] Organising information: unordered structures
     - book chapter: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
@@ -99,7 +99,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
       - Chapter "Understanding Data Types": section "Dictionaries"
       - Chapter "Understanding Dictionaries": all content
       - Chapter "How To Construct Classes and Define Objects": all content
-    - Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
+    - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     <hr />
 11. [21/11/25, *lab*] Laboratory: 3rd Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html)
@@ -107,12 +107,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 12. [24/11/25, *the*] Recursion
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/08%20-%20Recursion.html), [lecture](https://thinkcompute.github.io/08-slides-recursion.html)
-    - Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
+    - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     <hr />
 13. [26/11/25, *the*] Divide and conquer algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/09%20-%20Divide%20and%20conquer%20algorithms.html), [lecture](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
-    - Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
+    - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
     <hr />
 14. [28/11/25, *lab*] Laboratory: 4th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html)
@@ -120,12 +120,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 15. [1/12/25, *the*] Dynamic programming algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/10-dynamic-programming.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/10%20-%20Dynamic%20programming%20algorithms.html), [lecture](https://thinkcompute.github.io/10-slides-dynamic-programming.html)
-    - Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
+    - Python: [fib_dc.py](https://thinkcompute.github.io/fib_dc.py), [fib_dp.py](https://thinkcompute.github.io/fib_dp.py)
     <hr />
 16. [3/12/25, *the*] Organising information: trees
     - book chapter: [HTML](https://thinkcompute.github.io/11-trees.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/11%20-%20Organising%20information%20-%20trees.html), [lecture](https://thinkcompute.github.io/11-slides-trees.html)
-    - Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
+    - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py)
     <hr />
 17. [5/12/25, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-05.html)
@@ -133,7 +133,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 18. [10/12/25, *the*] Backtracking algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/12-backtracking.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/12%20-%20Backtracking%20algorithms.html), [lecture](https://thinkcompute.github.io/12-slides-backtracking.html)
-    - Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
+    - Python: [peg_solitaire.py](https://thinkcompute.github.io/peg_solitaire.py)
     <hr />
 19. [12/12/25, *lab*] Laboratory: 6th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-06.html)
@@ -141,12 +141,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 20. [15/12/25, *the*] Organising information: graphs
     - book chapter: [HTML](https://thinkcompute.github.io/13-graphs.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/13%20-%20Organising%20information%20-%20graphs.html), [lecture](https://thinkcompute.github.io/13-slides-graphs.html)
-    - Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
+    - Python: [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
     <hr />
 21. [17/12/25, *the*] Greedy algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/14-greedy.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/14%20-%20Greedy%20algorithms.html), [lecture](https://thinkcompute.github.io/14-slides-greedy.html)
-    - Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
+    - Python: [line_wrap.py](https://thinkcompute.github.io/line_wrap.py)
     <hr />
 22. [18/12/25, *wor*] Workshop
     <hr />
