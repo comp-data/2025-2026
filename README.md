@@ -64,9 +64,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "How To Write Conditional Statements": all content
      - Chapter "How To Define Functions": introductory paragraphs and sections "Defining a Function", "Working with Parameters", "Returning a Value"
    - Python: [first_algorithm_empty.py](https://thinkcompute.github.io/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://thinkcompute.github.io/first_algorithm_no_assignments.py), [first_algorithm.py](https://thinkcompute.github.io/first_algorithm.py)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2cf8cd04-2ecf-46e7-9883-b37e0077b4da&instance=Virtuale) (accessible using UNIBO credentials)
+   - exercises: [1](https://github.com/comp-data/2025-2026/issues/10), [2](https://github.com/comp-data/2025-2026/issues/11), [3](https://github.com/comp-data/2025-2026/issues/12), [4](https://github.com/comp-data/2025-2026/issues/13), [5](https://github.com/comp-data/2025-2026/issues/14), [6](https://github.com/comp-data/2025-2026/issues/15), [7](https://github.com/comp-data/2025-2026/issues/16), [8](https://github.com/comp-data/2025-2026/issues/17), [9](https://github.com/comp-data/2025-2026/issues/18), [10](https://github.com/comp-data/2025-2026/issues/19)
    <hr />
 6. [24/10/25, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-01.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e95928e7-12bf-4d8f-9d7d-b38000a89287&instance=Virtuale) (accessible using UNIBO credentials)
    <hr />
 7. [10/11/25, *the*] Organising information: ordered structures
    - book chapter: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
