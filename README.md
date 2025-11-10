@@ -66,6 +66,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - Python: [first_algorithm_empty.py](https://thinkcompute.github.io/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://thinkcompute.github.io/first_algorithm_no_assignments.py), [first_algorithm.py](https://thinkcompute.github.io/first_algorithm.py)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2cf8cd04-2ecf-46e7-9883-b37e0077b4da&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/10), [2](https://github.com/comp-data/2025-2026/issues/11), [3](https://github.com/comp-data/2025-2026/issues/12), [4](https://github.com/comp-data/2025-2026/issues/13), [5](https://github.com/comp-data/2025-2026/issues/14), [6](https://github.com/comp-data/2025-2026/issues/15), [7](https://github.com/comp-data/2025-2026/issues/16), [8](https://github.com/comp-data/2025-2026/issues/17), [9](https://github.com/comp-data/2025-2026/issues/18), [10](https://github.com/comp-data/2025-2026/issues/19)
+   - solutions: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-1), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-2),[3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-3),[4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-4),[5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-5),[6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-6),[7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-7),[8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-8),[9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-9),[10](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-10)
    <hr />
 6. [24/10/25, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-01.html)
@@ -81,6 +82,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "Understanding Lists": introductory paragraphs and section "Indexing Lists"
      - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
    - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
+   - exercises: [1](https://github.com/comp-data/2025-2026/issues/20), [2](https://github.com/comp-data/2025-2026/issues/21), [3](https://github.com/comp-data/2025-2026/issues/22), [4](https://github.com/comp-data/2025-2026/issues/23), [5](https://github.com/comp-data/2025-2026/issues/24)
    <hr />
 8. [14/11/25, *lab*] Laboratory: 2nd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-02.html)
