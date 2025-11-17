@@ -75,6 +75,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 7. [10/11/25, *the*] Organising information: ordered structures
    - book chapter: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/05%20-%20Organising%20information%20-%20ordered%20structures.html), [lecture](https://thinkcompute.github.io/05-slides-ordered-structures.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1717b26c-8c40-41c7-a267-b3910089845d&instance=Virtuale) (accessible using UNIBO credentials)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Chapter "How To Write Comments": all content
      - Chapter "How To Import Modules": all content
@@ -83,6 +84,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
    - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
    - exercises: [1](https://github.com/comp-data/2025-2026/issues/20), [2](https://github.com/comp-data/2025-2026/issues/21), [3](https://github.com/comp-data/2025-2026/issues/22), [4](https://github.com/comp-data/2025-2026/issues/23), [5](https://github.com/comp-data/2025-2026/issues/24)
+   - solutions: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-11), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-12), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-13), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-14), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-15)
    <hr />
 8. [14/11/25, *lab*] Laboratory: 2nd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-02.html)
