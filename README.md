@@ -88,6 +88,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    <hr />
 8. [14/11/25, *lab*] Laboratory: 2nd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-02.html)
+   - video: UNIBO Virtuale ([first](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03e38eda-7c4d-4050-bd7f-b3950087b9fd&instance=Virtuale) and [second](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b0dbeac0-3440-4d69-bc34-b395008aa8d3&instance=Virtuale), accessible using UNIBO credentials)
    <hr />
 9. [17/11/25, *the*] Brute-force algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/06-brute-force.html)
@@ -99,6 +100,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "Understanding Lists": section "Constructing a List with List Items"
      - Chapter "How To Use List Methods": section "list.insert()"
    - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2289b6f3-56a7-44e8-9ff0-b39800883c63&instance=Virtuale) (accessible using UNIBO credentials)
+   - exercises: [1](https://github.com/comp-data/2025-2026/issues/25), [2](https://github.com/comp-data/2025-2026/issues/26), [3](https://github.com/comp-data/2025-2026/issues/27), [4](https://github.com/comp-data/2025-2026/issues/28), [5](https://github.com/comp-data/2025-2026/issues/29), [6](https://github.com/comp-data/2025-2026/issues/30), [7](https://github.com/comp-data/2025-2026/issues/31), [8](https://github.com/comp-data/2025-2026/issues/32), [9](https://github.com/comp-data/2025-2026/issues/33), [10](https://github.com/comp-data/2025-2026/issues/34), [11](https://github.com/comp-data/2025-2026/issues/35), [12](https://github.com/comp-data/2025-2026/issues/36)
    <hr />
 10. [19/11/25, *the*] Organising information: unordered structures
     - book chapter: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
