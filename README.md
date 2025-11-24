@@ -114,9 +114,11 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d887f22d-d677-41e3-8545-b39a0088c806&instance=Virtuale) (accessible using UNIBO credentials)
     - exercises: [1](https://github.com/comp-data/2025-2026/issues/37), [2](https://github.com/comp-data/2025-2026/issues/38), [3](https://github.com/comp-data/2025-2026/issues/39), [4](https://github.com/comp-data/2025-2026/issues/40), [5](https://github.com/comp-data/2025-2026/issues/41), [6](https://github.com/comp-data/2025-2026/issues/42), [7](https://github.com/comp-data/2025-2026/issues/43), [8](https://github.com/comp-data/2025-2026/issues/44), [9](https://github.com/comp-data/2025-2026/issues/45)
+   - solutions: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-28), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-29), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-30), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-31), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-32), [6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-33), [7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-34), [8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-35), [9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-36)
     <hr />
 11. [21/11/25, *lab*] Laboratory: 3rd Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=229cad35-bf05-4f09-9b78-b39c008806fb&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 12. [24/11/25, *the*] Recursion
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
