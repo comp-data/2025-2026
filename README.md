@@ -124,6 +124,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/08%20-%20Recursion.html), [lecture](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6ab9da21-2ba3-42aa-93e0-b39f008865e3&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/46), [2](https://github.com/comp-data/2025-2026/issues/47), [3](https://github.com/comp-data/2025-2026/issues/48), [4](https://github.com/comp-data/2025-2026/issues/49)
     <hr />
 13. [26/11/25, *the*] Divide and conquer algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
