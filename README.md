@@ -132,6 +132,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - book chapter: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/09%20-%20Divide%20and%20conquer%20algorithms.html), [lecture](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=404571d7-5761-4c7b-93e6-b3a300850ae6&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/50), [2](https://github.com/comp-data/2025-2026/issues/51), [3](https://github.com/comp-data/2025-2026/issues/52), [4](https://github.com/comp-data/2025-2026/issues/53), [5](https://github.com/comp-data/2025-2026/issues/54), [6](https://github.com/comp-data/2025-2026/issues/55), [7](https://github.com/comp-data/2025-2026/issues/56)
     <hr />
 14. [28/11/25, *lab*] Laboratory: 4th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html)
