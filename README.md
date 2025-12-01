@@ -134,9 +134,11 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=404571d7-5761-4c7b-93e6-b3a300850ae6&instance=Virtuale) (accessible using UNIBO credentials)
     - exercises: [1](https://github.com/comp-data/2025-2026/issues/50), [2](https://github.com/comp-data/2025-2026/issues/51), [3](https://github.com/comp-data/2025-2026/issues/52), [4](https://github.com/comp-data/2025-2026/issues/53), [5](https://github.com/comp-data/2025-2026/issues/54), [6](https://github.com/comp-data/2025-2026/issues/55), [7](https://github.com/comp-data/2025-2026/issues/56)
+    - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-1), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-2), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-3), [4](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-4), [5](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-5), [6](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-6), [7](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-7)
     <hr />
 14. [28/11/25, *lab*] Laboratory: 4th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1103ea59-8820-455c-9e9c-b3a30087fcfb&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 15. [1/12/25, *the*] Dynamic programming algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/10-dynamic-programming.html)
