@@ -144,6 +144,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - book chapter: [HTML](https://thinkcompute.github.io/10-dynamic-programming.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/10%20-%20Dynamic%20programming%20algorithms.html), [lecture](https://thinkcompute.github.io/10-slides-dynamic-programming.html)
     - Python: [fib_dc.py](https://thinkcompute.github.io/fib_dc.py), [fib_dp.py](https://thinkcompute.github.io/fib_dp.py)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3ddbe324-db27-40e3-ad9e-b3a60088f3cb&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/57), [2](https://github.com/comp-data/2025-2026/issues/58), [3](https://github.com/comp-data/2025-2026/issues/59), [4](https://github.com/comp-data/2025-2026/issues/60) 
     <hr />
 16. [3/12/25, *the*] Organising information: trees
     - book chapter: [HTML](https://thinkcompute.github.io/11-trees.html)
