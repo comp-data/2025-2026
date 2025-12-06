@@ -146,11 +146,14 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - Python: [fib_dc.py](https://thinkcompute.github.io/fib_dc.py), [fib_dp.py](https://thinkcompute.github.io/fib_dp.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3ddbe324-db27-40e3-ad9e-b3a60088f3cb&instance=Virtuale) (accessible using UNIBO credentials)
     - exercises: [1](https://github.com/comp-data/2025-2026/issues/57), [2](https://github.com/comp-data/2025-2026/issues/58), [3](https://github.com/comp-data/2025-2026/issues/59), [4](https://github.com/comp-data/2025-2026/issues/60) 
+    - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-8), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-9), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-10), [4](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-11)
     <hr />
 16. [3/12/25, *the*] Organising information: trees
     - book chapter: [HTML](https://thinkcompute.github.io/11-trees.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/11%20-%20Organising%20information%20-%20trees.html), [lecture](https://thinkcompute.github.io/11-slides-trees.html)
     - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bd0a5739-a36f-4dc9-850b-b3a80088b885&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/61), [2](https://github.com/comp-data/2025-2026/issues/62), [3](https://github.com/comp-data/2025-2026/issues/63), [4](https://github.com/comp-data/2025-2026/issues/64), [5](https://github.com/comp-data/2025-2026/issues/65), [6](https://github.com/comp-data/2025-2026/issues/66)
     <hr />
 17. [5/12/25, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-05.html)
