@@ -163,8 +163,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - book chapter: [HTML](https://thinkcompute.github.io/12-backtracking.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/12%20-%20Backtracking%20algorithms.html), [lecture](https://thinkcompute.github.io/12-slides-backtracking.html)
     - Python: [peg_solitaire.py](https://thinkcompute.github.io/peg_solitaire.py)
-    - exercises: [1](https://github.com/comp-data/2025-2026/issues/66)
-    - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-17)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b157886b-cba8-4617-93ce-b3af008891f9&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/67), [2](https://github.com/comp-data/2025-2026/issues/68), [3](https://github.com/comp-data/2025-2026/issues/69), [4](https://github.com/comp-data/2025-2026/issues/66)
     <hr />
 19. [12/12/25, *lab*] Laboratory: 6th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-06.html)
