@@ -154,6 +154,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bd0a5739-a36f-4dc9-850b-b3a80088b885&instance=Virtuale) (accessible using UNIBO credentials)
     - exercises: [1](https://github.com/comp-data/2025-2026/issues/61), [2](https://github.com/comp-data/2025-2026/issues/62), [3](https://github.com/comp-data/2025-2026/issues/63), [4](https://github.com/comp-data/2025-2026/issues/64), [5](https://github.com/comp-data/2025-2026/issues/65), [6](https://github.com/comp-data/2025-2026/issues/66)
+    - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-12), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-13), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-14), [4](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-15), [5](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-16), [6](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-17)
     <hr />
 17. [5/12/25, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-05.html)
