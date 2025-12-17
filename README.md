@@ -158,6 +158,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 17. [5/12/25, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-05.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=933b6f53-1bd4-4a03-ad95-b3b10085414e&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 18. [10/12/25, *the*] Backtracking algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/12-backtracking.html)
@@ -165,14 +166,19 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - Python: [peg_solitaire.py](https://thinkcompute.github.io/peg_solitaire.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b157886b-cba8-4617-93ce-b3af008891f9&instance=Virtuale) (accessible using UNIBO credentials)
     - exercises: [1](https://github.com/comp-data/2025-2026/issues/67), [2](https://github.com/comp-data/2025-2026/issues/68), [3](https://github.com/comp-data/2025-2026/issues/69), [4](https://github.com/comp-data/2025-2026/issues/66)
+    - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-17), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-18), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-19), [4](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-20)
     <hr />
 19. [12/12/25, *lab*] Laboratory: 6th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-06.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e30e432a-38d5-46f3-8353-b3b10088c9a8&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 20. [15/12/25, *the*] Organising information: graphs
     - book chapter: [HTML](https://thinkcompute.github.io/13-graphs.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/13%20-%20Organising%20information%20-%20graphs.html), [lecture](https://thinkcompute.github.io/13-slides-graphs.html)
     - Python: [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d907232c-c275-4ba2-8e9e-b3b4008948ca&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/70), [2](https://github.com/comp-data/2025-2026/issues/71), [3](https://github.com/comp-data/2025-2026/issues/72), [4](https://github.com/comp-data/2025-2026/issues/73), [5](https://github.com/comp-data/2025-2026/issues/74)
+    - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-21), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-22), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-23), [4](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-24), [5](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-25)
     <hr />
 21. [17/12/25, *the*] Greedy algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/14-greedy.html)
