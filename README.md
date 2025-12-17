@@ -184,6 +184,9 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - book chapter: [HTML](https://thinkcompute.github.io/14-greedy.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/14%20-%20Greedy%20algorithms.html), [lecture](https://thinkcompute.github.io/14-slides-greedy.html)
     - Python: [line_wrap.py](https://thinkcompute.github.io/line_wrap.py)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de0f3cc5-1c66-4fb6-bd5c-b3b600897f77&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/75), [2](https://github.com/comp-data/2025-2026/issues/76), [3](https://github.com/comp-data/2025-2026/issues/77)
+    - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-26), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-27), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-28)
     <hr />
 22. [18/12/25, *wor*] Workshop
     <hr />
