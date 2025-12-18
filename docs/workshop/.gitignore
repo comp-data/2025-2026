@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+students/
+00_*
+mok.py
+0.json
+support/
+arenas/
