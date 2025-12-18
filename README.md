@@ -189,6 +189,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-26), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-27), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-28)
     <hr />
 22. [18/12/25, *wor*] Workshop
+    - [link](https://github.com/comp-data/2025-2026/tree/main/docs/workshop)
     <hr />
 
 
