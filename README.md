@@ -145,7 +145,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/10%20-%20Dynamic%20programming%20algorithms.html), [lecture](https://thinkcompute.github.io/10-slides-dynamic-programming.html)
     - Python: [fib_dc.py](https://thinkcompute.github.io/fib_dc.py), [fib_dp.py](https://thinkcompute.github.io/fib_dp.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3ddbe324-db27-40e3-ad9e-b3a60088f3cb&instance=Virtuale) (accessible using UNIBO credentials)
-    - exercises: [1](https://github.com/comp-data/2025-2026/issues/57), [2](https://github.com/comp-data/2025-2026/issues/58), [3](https://github.com/comp-data/2025-2026/issues/59), [4](https://github.com/comp-data/2025-2026/issues/60) 
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/57), [2](https://github.com/comp-data/2025-2026/issues/58), [3](https://github.com/comp-data/2025-2026/issues/59), [4](https://github.com/comp-data/2025-2026/issues/60)
     - solutions: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-8), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-9), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-10), [4](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-11)
     <hr />
 16. [3/12/25, *the*] Organising information: trees
@@ -195,9 +195,74 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 #### Part II (February 2026 - March 2026)
 
-TBC
+23. [09/2/26, *the*] Introduction to the course and final project specifications
+    - slides: [Google Slides]()
+<hr />
+
+24. [11/2/26, *the*] What is a datum and how it can be represented computationally
+
+<hr />
+
+25. [13/2/26, *hon*] Data formats and methods for storing data in Python
+    - book chapter: [HTML](https://thinkcompute.github.io/15-what-is-a-datum.html)
+
+<hr />
+
+26. [16/2/26, *the*] Introduction to data modelling
+
+<hr />
+
+27. [18/2/26, *hon*] Implementation of data models via Python classes
+    - book chapter: [HTML](https://thinkcompute.github.io/16-data-models.html)
+
+<hr />
+
+28. [20/2/26, *the*] Processing and querying the data
+
+<hr />
+
+29. [23/2/26, *hon*] Introduction to Pandas
+    - book chapter: [HTML](https://thinkcompute.github.io/17-pandas.html)
+
+<hr />
+
+30. [25/2/26, *the*] Describing and visualising data
+
+<hr />
+
+31. [27/2/26, *hon*] Descriptive statistics and graphs about data using Pandas
+    - book chapter: [HTML](https://thinkcompute.github.io/18-statistics.html)
+
+<hr />
+
+32. [2/3/26, *the*] Database Management Systems
+
+<hr />
+
+33. [4/3/26, *hon*] Configuring and populating a relational database
+    - book chapter: [HTML](https://thinkcompute.github.io/19-relational-database.html)
+
+<hr />
+
+34. [6/3/26, *the*] SQL, a query language for relational databases
+
+<hr />
+
+35. [11/3/26, *hon*] Configuring and populating a graph database
+    - book chapter: [HTML](https://thinkcompute.github.io/20-graph-database.html)
+
+<hr />
+
+36. [13/3/26, *the*] SPARQL, a query language for RDF databases
+
+<hr />
+
+37. [18/3/26, *hon*] Interacting with databases using Pandas
+    - book chapter: [HTML](https://thinkcompute.github.io/21-querying-databases.html)
 
 ### Schedule
+
+#### Part I
 
 <table>
   <tr><td>13/10/25</td><td>09:00-11:00</td><td>Introduction to the course</td></tr>
@@ -224,6 +289,25 @@ TBC
   <tr><td>18/12/25</td><td>13:00-16:00</td><td>Workshop</td></tr>
 </table>
 
+#### Part II
+
+<table>
+  <tr><td>9/2/26</td><td>09:00-11:00</td><td>Introduction to the course and final project specifications</td></tr>
+  <tr><td>11/2/26</td><td>09:00-11:00</td><td>What is a datum and how it can be represented computationally</td></tr>
+  <tr><td>13/2/26</td><td>12:00-14:00</td><td>Data formats and methods for storing data in Python</td></tr>
+  <tr><td>16/2/26</td><td>09:00-11:00</td><td>Introduction to data modelling</td></tr>
+  <tr><td>18/2/26</td><td>09:00-11:00</td><td>Implementation of data models via Python classes</td></tr>
+  <tr><td>20/2/26</td><td>12:00-14:00</td><td>Processing and querying the data</td></tr>
+  <tr><td>23/2/26</td><td>09:00-11:00</td><td>Introduction to Pandas</td></tr>
+  <tr><td>25/2/26</td><td>09:00-11:00</td><td>Describing and visualising data</td></tr>
+  <tr><td>27/2/26</td><td>12:00-14:00</td><td>Descriptive statistics and graphs about data using Pandas</td></tr>
+  <tr><td>2/3/26</td><td>09:00-11:00</td><td>Database Management Systems</td></tr>
+  <tr><td>4/3/26</td><td>09:00-11:00</td><td>Configuring and populating a relational database</td></tr>
+  <tr><td>6/3/26</td><td>12:00-14:00</td><td>SQL, a query language for relational databases</td></tr>
+  <tr><td>11/3/26</td><td>09:00-11:00</td><td>Configuring and populating a graph database</td></tr>
+  <tr><td>13/3/26</td><td>12:00-14:00</td><td>SPARQL, a query language for RDF databases</td></tr>
+  <tr><td>18/3/26</td><td>09:00-11:00</td><td>Interacting with databases using Pandas</td></tr>
+</table>
 
 ## Links
 
