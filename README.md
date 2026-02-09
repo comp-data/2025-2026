@@ -196,11 +196,11 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 #### Part II (February 2026 - March 2026)
 
 23. [09/2/26, *the*] Introduction to the course and final project specifications
-    - slides: [Google Slides]()
+    - slides: [Google Slides](https://docs.google.com/presentation/d/1G7LCev-AQCJbV9HPDTBn69bjEUA_yYfBgt1vcZDrZuU/edit?usp=sharing)
 <hr />
 
 24. [11/2/26, *the*] What is a datum and how it can be represented computationally
-
+    
 <hr />
 
 25. [13/2/26, *hon*] Data formats and methods for storing data in Python
