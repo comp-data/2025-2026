@@ -210,6 +210,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 <hr />
 
 26. [16/2/26, *the*] Introduction to data modelling
+    - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/3.pdf)
 
 <hr />
 
