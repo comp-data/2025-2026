@@ -220,6 +220,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 <hr />
 
 28. [20/2/26, *the*] Processing and querying the data
+    - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/4.pdf)
 
 <hr />
 
