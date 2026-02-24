@@ -230,6 +230,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 <hr />
 
 30. [25/2/26, *the*] Describing and visualising data
+    - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/5.pdf)
 
 <hr />
 
