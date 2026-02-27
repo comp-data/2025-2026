@@ -197,45 +197,55 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 23. [09/2/26, *the*] Introduction to the course and final project specifications
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/1.pdf)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2425f557-fff2-452f-9c9a-b3ec0086fb78&instance=Virtuale) (accessible using UNIBO credentials)
+
 <hr />
 
 24. [11/2/26, *the*] What is a datum and how it can be represented computationally
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/2.pdf)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d8303b12-160a-4fdf-a3cc-b3ee00872403&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
 25. [13/2/26, *hon*] Data formats and methods for storing data in Python
     - book chapter: [HTML](https://thinkcompute.github.io/15-what-is-a-datum.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=85de2183-738c-49ce-8aab-b3f000b80146&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
 26. [16/2/26, *the*] Introduction to data modelling
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/3.pdf)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=12f9cee0-7102-4fea-a754-b3f30086bc3f&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
 27. [18/2/26, *hon*] Implementation of data models via Python classes
     - book chapter: [HTML](https://thinkcompute.github.io/16-data-models.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b2c153b7-0ff9-4eee-b7cd-b3f5008690e4&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
 28. [20/2/26, *the*] Processing and querying the data
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/4.pdf)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61b70c3a-61d9-4a8b-a8d1-b3f700b8ca35&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
 29. [23/2/26, *hon*] Introduction to Pandas
     - book chapter: [HTML](https://thinkcompute.github.io/17-pandas.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a556218-f61c-4892-beaa-b3fa0086f358&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
 30. [25/2/26, *the*] Describing and visualising data
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/5.pdf)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f09d8100-201d-4dad-b2af-b3fc008cbaaa&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
 31. [27/2/26, *hon*] Descriptive statistics and graphs about data using Pandas
     - book chapter: [HTML](https://thinkcompute.github.io/18-statistics.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7aef58fd-51d6-47c6-a64c-b3fe00b8c5bc&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
