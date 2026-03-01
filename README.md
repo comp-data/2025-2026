@@ -250,7 +250,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 <hr />
 
 32. [2/3/26, *the*] Database Management Systems
-
+    - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/6.pdf)
 <hr />
 
 33. [4/3/26, *hon*] Configuring and populating a relational database
