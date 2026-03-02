@@ -259,6 +259,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 32. [2/3/26, *the*] Database Management Systems
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/6.pdf)
+    - video [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=de6f6c58-8fe4-4024-a895-b40100887c54&instance=Virtuale) (accessible using UNIBO credentials)
+
 <hr />
 
 33. [4/3/26, *hon*] Configuring and populating a relational database
