@@ -210,6 +210,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 25. [13/2/26, *hon*] Data formats and methods for storing data in Python
     - book chapter: [HTML](https://thinkcompute.github.io/15-what-is-a-datum.html)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=85de2183-738c-49ce-8aab-b3f000b80146&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/78), [2](https://github.com/comp-data/2025-2026/issues/79)
+    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_1-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_1-2.ipynb)
 
 <hr />
 
@@ -222,6 +224,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 27. [18/2/26, *hon*] Implementation of data models via Python classes
     - book chapter: [HTML](https://thinkcompute.github.io/16-data-models.html)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b2c153b7-0ff9-4eee-b7cd-b3f5008690e4&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/80), [2](https://github.com/comp-data/2025-2026/issues/81)
+    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_2-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_2-2.ipynb)
 
 <hr />
 
@@ -234,6 +238,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 29. [23/2/26, *hon*] Introduction to Pandas
     - book chapter: [HTML](https://thinkcompute.github.io/17-pandas.html)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a556218-f61c-4892-beaa-b3fa0086f358&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/82), [2](https://github.com/comp-data/2025-2026/issues/83)
+    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_3-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_3-2.ipynb)
 
 <hr />
 
@@ -246,6 +252,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 31. [27/2/26, *hon*] Descriptive statistics and graphs about data using Pandas
     - book chapter: [HTML](https://thinkcompute.github.io/18-statistics.html)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7aef58fd-51d6-47c6-a64c-b3fe00b8c5bc&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/84), [2](https://github.com/comp-data/2025-2026/issues/85)
+    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_4-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_4-2.ipynb)
 
 <hr />
 
