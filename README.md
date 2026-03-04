@@ -265,6 +265,9 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 33. [4/3/26, *hon*] Configuring and populating a relational database
     - book chapter: [HTML](https://thinkcompute.github.io/19-relational-database.html)
+    - video [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d8eadd0a-239c-4afe-9a1b-b403008781a7&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/86), [2](https://github.com/comp-data/2025-2026/issues/87)
+    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_5-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_5-2.ipynb)
 
 <hr />
 
