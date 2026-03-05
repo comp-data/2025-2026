@@ -272,6 +272,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 <hr />
 
 34. [6/3/26, *the*] SQL, a query language for relational databases
+  - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/7.pdf)
 
 <hr />
 
