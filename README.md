@@ -273,6 +273,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 34. [6/3/26, *the*] SQL, a query language for relational databases
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/7.pdf)
+    - video [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3c8f3b6d-3c61-4cb1-afc4-b40500b83e23&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
