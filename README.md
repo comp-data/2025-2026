@@ -238,8 +238,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 29. [23/2/26, *hon*] Introduction to Pandas
     - book chapter: [HTML](https://thinkcompute.github.io/17-pandas.html)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a556218-f61c-4892-beaa-b3fa0086f358&instance=Virtuale) (accessible using UNIBO credentials)
-    - exercises: [1](https://github.com/comp-data/2025-2026/issues/82), [2](https://github.com/comp-data/2025-2026/issues/83)
-    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_3-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_3-2.ipynb)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/82), [2](https://github.com/comp-data/2025-2026/issues/83), [3](https://github.com/comp-data/2025-2026/issues/88)
+    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_3-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_3-2.ipynb), [3](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_3-3.ipynb)
 
 <hr />
 
