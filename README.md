@@ -279,6 +279,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 35. [11/3/26, *hon*] Configuring and populating a graph database
     - book chapter: [HTML](https://thinkcompute.github.io/20-graph-database.html)
+    - video [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3f6dbc60-a996-4bec-9fcb-b40a008757ad&instance=Virtuale) (accessible using UNIBO credentials)
 
 <hr />
 
