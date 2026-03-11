@@ -280,6 +280,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 35. [11/3/26, *hon*] Configuring and populating a graph database
     - book chapter: [HTML](https://thinkcompute.github.io/20-graph-database.html)
     - video [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3f6dbc60-a996-4bec-9fcb-b40a008757ad&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2025-2026/issues/89), [2](https://github.com/comp-data/2025-2026/issues/90)
+    - solutions: [1](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_6-1.ipynb), [2](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/material/ex-hon_6-2.ipynb)
 
 <hr />
 
