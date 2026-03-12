@@ -286,7 +286,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 <hr />
 
 36. [13/3/26, *the*] SPARQL, a query language for RDF databases
-
+    - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/8.pdf)
+      
 <hr />
 
 37. [18/3/26, *hon*] Interacting with databases using Pandas
