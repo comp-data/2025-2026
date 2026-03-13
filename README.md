@@ -287,6 +287,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 36. [13/3/26, *the*] SPARQL, a query language for RDF databases
     - slides: [PDF](https://comp-data.github.io/2025-2026/slides_p2/8.pdf)
+    - video [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9eadc62f-fd5f-45a8-bac5-b40c00b8e748&instance=Virtuale) (accessible using UNIBO credentials)
       
 <hr />
 
