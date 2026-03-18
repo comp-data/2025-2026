@@ -293,6 +293,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 37. [18/3/26, *hon*] Interacting with databases using Pandas
     - book chapter: [HTML](https://thinkcompute.github.io/21-querying-databases.html)
+    - video [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=41db14ff-58e6-4fd0-aa3f-b411008cf9c6&instance=Virtuale) (accessible using UNIBO credentials)
 
 ### Schedule
 
