@@ -72,7 +72,7 @@ python run.py
 ```
 
 ## Final results
-All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to run the main Python script [*Run In The Arena*](https://comp-data.github.io/2025-2026/workshop/00_run_the_arena.py) with all the groups' implementation. It used [100 different labyrinths](https://github.com/comp-data/2025-2026/tree/main/docs/workshop/areas) that have been generated randomly running [create_arenas.py](https://comp-data.github.io/2025-2026/workshop/support/create_arenas.py).
+All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to run the main Python script [*Run In The Arena*](https://comp-data.github.io/2025-2026/workshop/00_run_the_arena.py) with all the groups' implementation. It used [100 different arenas](https://github.com/comp-data/2025-2026/tree/main/docs/workshop/areas) that have been generated randomly running [create_arenas.py](https://comp-data.github.io/2025-2026/workshop/support/create_arenas.py).
 
 The [final results](https://comp-data.github.io/2025-2026/workshop/00_results.txt) of this execution are summarised as follows:
 
