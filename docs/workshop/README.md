@@ -70,3 +70,25 @@ To test the implementation of `do_move`, run:
 ```
 python run.py
 ```
+
+## Final results
+All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to run the main Python script [*Run In The Arena*](https://comp-data.github.io/2025-2026/workshop/00_run_the_arena.py) with all the groups' implementation. It used [100 different labyrinths](https://github.com/comp-data/2025-2026/tree/main/docs/workshop/areas) that have been generated randomly running [create_arenas.py](https://comp-data.github.io/2025-2026/workshop/support/create_arenas.py).
+
+The [final results](https://comp-data.github.io/2025-2026/workshop/00_results.txt) of this execution are summarised as follows:
+
+* Avoiding cheating: *data_wranglers*, *data_managers*
+* Winning at least 30 arenas: *none*
+* Winning at least 90 arenas: *none*
+
+Concluding:
+* *data_wranglers* and *data_managers* members receive 1 point
+
+In case one group want to test its code with the code used for the evaluation (i.e. [`00_run_the_arena.py`](https://comp-data.github.io/2025-2026/workshop/00_run_the_arena.py)), it is necessary:
+
+* to clone the current directory dedicated to the workshop;
+* to copy the file containing the group code in the same directory of `00_run_the_arena.py`;
+* to import the group file as usual (i.e. `import <group_file_name_without_extension>`);
+* to substitute `mok` with the name of the imported file in the list `all_players`;
+* to run the code with `python 00_run_the_arena.py`.
+
+In case it is needed, the file [`mok.py`](https://comp-data.github.io/2025-2026/workshop/mok.py) provides a possible implementation - which is not successful at all.

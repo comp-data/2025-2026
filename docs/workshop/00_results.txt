@@ -1,0 +1,506 @@
+
+# Room 1
+	winners: quattrogatti
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 2
+	winners: 
+	loosers: data_managers, data_wranglers, minimini, obstinate_ouroboros
+	cheaters: code_crackers, drop_table_users, humanists, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 3
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 4
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini, obstinate_ouroboros, sirio
+	cheaters: drop_table_users, humanists, quattrogatti, total_jingle_bells, walk_Into_a_bar
+
+# Room 5
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 6
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 7
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 8
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 9
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 10
+	winners: data_wranglers
+	loosers: data_managers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 11
+	winners: 
+	loosers: data_managers, data_wranglers, minimini, obstinate_ouroboros
+	cheaters: code_crackers, drop_table_users, humanists, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 12
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 13
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, quattrogatti, sirio
+	cheaters: drop_table_users, humanists, minimini, obstinate_ouroboros, total_jingle_bells, walk_Into_a_bar
+
+# Room 14
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers
+	cheaters: drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 15
+	winners: 
+	loosers: data_managers, data_wranglers, minimini, walk_Into_a_bar
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells
+
+# Room 16
+	winners: data_wranglers
+	loosers: data_managers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 17
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 18
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 19
+	winners: data_managers, data_wranglers
+	loosers: code_crackers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 20
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 21
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 22
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 23
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 24
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 25
+	winners: data_wranglers
+	loosers: code_crackers, data_managers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 26
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini, obstinate_ouroboros
+	cheaters: drop_table_users, humanists, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 27
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 28
+	winners: data_managers, data_wranglers
+	loosers: 
+	cheaters: code_crackers, drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 29
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 30
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 31
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 32
+	winners: 
+	loosers: data_managers, data_wranglers, minimini, quattrogatti, sirio
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, total_jingle_bells, walk_Into_a_bar
+
+# Room 33
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 34
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 35
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 36
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 37
+	winners: data_managers, data_wranglers
+	loosers: code_crackers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 38
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 39
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 40
+	winners: data_wranglers
+	loosers: data_managers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 41
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 42
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 43
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 44
+	winners: 
+	loosers: data_managers, data_wranglers
+	cheaters: code_crackers, drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 45
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 46
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 47
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 48
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 49
+	winners: data_managers
+	loosers: code_crackers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 50
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 51
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 52
+	winners: data_wranglers
+	loosers: data_managers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 53
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 54
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 55
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 56
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, obstinate_ouroboros
+	cheaters: drop_table_users, humanists, minimini, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 57
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 58
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 59
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 60
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 61
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 62
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 63
+	winners: 
+	loosers: data_managers, data_wranglers
+	cheaters: code_crackers, drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 64
+	winners: data_wranglers
+	loosers: data_managers, minimini, obstinate_ouroboros, sirio
+	cheaters: code_crackers, drop_table_users, humanists, quattrogatti, total_jingle_bells, walk_Into_a_bar
+
+# Room 65
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 66
+	winners: 
+	loosers: data_managers, data_wranglers, minimini, walk_Into_a_bar
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells
+
+# Room 67
+	winners: data_managers
+	loosers: data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 68
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers
+	cheaters: drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 69
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 70
+	winners: data_managers, data_wranglers
+	loosers: code_crackers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 71
+	winners: 
+	loosers: data_managers, data_wranglers, minimini, quattrogatti
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 72
+	winners: 
+	loosers: data_managers, data_wranglers, minimini, walk_Into_a_bar
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells
+
+# Room 73
+	winners: data_managers, data_wranglers
+	loosers: code_crackers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 74
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 75
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 76
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini, obstinate_ouroboros
+	cheaters: drop_table_users, humanists, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 77
+	winners: 
+	loosers: data_managers, data_wranglers
+	cheaters: code_crackers, drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 78
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 79
+	winners: data_wranglers, minimini
+	loosers: data_managers
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 80
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 81
+	winners: data_wranglers
+	loosers: data_managers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 82
+	winners: data_managers
+	loosers: code_crackers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 83
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 84
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 85
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 86
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 87
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 88
+	winners: data_managers, data_wranglers
+	loosers: code_crackers
+	cheaters: drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 89
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers
+	cheaters: drop_table_users, humanists, minimini, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 90
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 91
+	winners: data_managers, data_wranglers
+	loosers: minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 92
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 93
+	winners: data_wranglers
+	loosers: data_managers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 94
+	winners: data_managers, data_wranglers
+	loosers: minimini, quattrogatti
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 95
+	winners: 
+	loosers: code_crackers, data_managers, data_wranglers, minimini
+	cheaters: drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 96
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 97
+	winners: data_managers
+	loosers: data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 98
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 99
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+# Room 100
+	winners: 
+	loosers: data_managers, data_wranglers, minimini
+	cheaters: code_crackers, drop_table_users, humanists, obstinate_ouroboros, quattrogatti, sirio, total_jingle_bells, walk_Into_a_bar
+
+
+## FINAL RESULTS ##
+Avoiding cheating: data_wranglers data_managers
+Winning at least 30 arenas: 
+Winning at least 90 arenas: 
